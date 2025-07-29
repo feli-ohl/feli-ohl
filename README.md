@@ -13,7 +13,7 @@
 
 - **Languages:** C, Java, JavaScript, Python, C++
 - **Tools & Frameworks:** Astro, LaTeX
-- **Currently learning:** Web development, Creative coding, and modern backend development
+- **Currently learning:** web development, creative coding, and modern backend development
 - **Currently reading:** The Nature of Code: Simulating Natural Systems with JavaScript (Daniel Shiffman)
 
 ---
