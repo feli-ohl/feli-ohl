@@ -2,8 +2,8 @@
 
 🎓 I'm a dual-degree student in Computer Science and Mathematics, passionate about:
 
-- 🛡️ Cybersecurity  
-- 🤖 Artificial Intelligence  
+- 🤖 Artificial Intelligence
+- 📊 Data Science  
 - 💻 Software Development  
 - 🎨 Graphic Design  
 
@@ -32,8 +32,8 @@ Feel free to reach out if you want to chat, collaborate, or just share ideas.
 You can find me on:
 
 - 🧷 Linkedin: [felipe-oehler](https://www.linkedin.com/in/felipe-oehler/)
-- ✉️ Email: oehlerfelipe@gmail.com <!-- Replace or remove -->
-
+- ✉️ Email: oehlerfelipe@gmail.com
+   
 ---
 
 Thanks for stopping by! 🙌
