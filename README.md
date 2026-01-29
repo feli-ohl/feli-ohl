@@ -30,6 +30,11 @@ When I'm not dealing with memory leaks or pointers, I love exploring **Creative 
 
 > 🌐 **Check out my projects:** [felipe-oehler.vercel.app](https://felipe-oehler.vercel.app)
 
+---
+
+### 🚀 Open to Opportunities
+
+I am currently looking for internships where I can apply my background in Math & CS. If you think I'd be a good fit for your team, I'd love to chat!
 
 ---
 
