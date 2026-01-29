@@ -17,6 +17,22 @@
 
 ---
 
+### 📌 Pinned Projects
+
+<div align="center">
+  <a href="https://github.com/feli-ohl/Libft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=feli-ohl&repo=Libft&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/feli-ohl/Creative-Coding">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=feli-ohl&repo=Creative-Coding&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/feli-ohl/UnixShell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=feli-ohl&repo=UnixShell&theme=transparent&hide_border=true" />
+  </a>
+</div>
+
+---
+
 ### 💻 Tech Stack:
 
 **Languages:**  
