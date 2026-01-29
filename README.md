@@ -1,39 +1,33 @@
-# 👋 Hi! I'm Felipe
+## Hi, I'm Felipe Oehler!
 
-🎓 I'm a dual-degree student in Computer Science and Mathematics, passionate about:
+👨🏽‍🎓 Dual-degree student in **Mathematics & Computer Science** at the University of Málaga (UMA).<br/>
+👨🏽‍💻 Learning about programming at **42 Málaga**.<br/>
+🎨 Enthusiast of Graphic Design.<br/>
+🛩️ Avid traveler and book lover.<br/>
+📍 Based in Málaga, Spain.<br/>
 
-- 🤖 Artificial Intelligence
-- 📊 Data Science  
-- 💻 Software Development  
-- 🎨 Graphic Design  
-
----
-
-## 🛠️ Tech Stack & Interests
-
-- **Languages:** C, Java, JavaScript, Python, C++
-- **Tools & Frameworks:** Astro, LaTeX
-- **Currently learning:** web development, creative coding, and modern backend development
-- **Currently reading:** The Nature of Code: Simulating Natural Systems with JavaScript (Daniel Shiffman)
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=feli-ohl&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feli-ohl&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
 
 ---
 
-## 🌍 Check out my portfolio
+### 📊 Github Stats
 
-Take a look at my personal site where I showcase my experience, education, and projects:
-
-🔗 [felipe-oehler.vercel.app](https://felipe-oehler.vercel.app)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=feli-ohl&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feli-ohl&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
+</div>
 
 ---
 
-## 📫 Let's connect!
-
-Feel free to reach out if you want to chat, collaborate, or just share ideas.  
-You can find me on:
-
-- 🧷 Linkedin: [felipe-oehler](https://www.linkedin.com/in/felipe-oehler/)
-- ✉️ Email: oehlerfelipe@gmail.com
-   
----
-
-Thanks for stopping by! 🙌
+<div align="left">
+  <a href="https://www.linkedin.com/in/felipe-oehler/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:oehlerfelipe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
