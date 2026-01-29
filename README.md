@@ -34,7 +34,7 @@
 
 ### 🔭 What I'm up to
 
-Right now, I'm pouring most of my energy into **42 Málaga**, tackling complex system programming challenges in C (like building my own Shell) and learning how things really work under the hood.
+Right now, I'm pouring most of my energy into **42 Málaga**, tackling complex system programming challenges in C (like building my own Shell), Python and learning how things really work under the hood.
 
 When I'm not dealing with memory leaks or pointers, I love exploring **Creative Coding** to visualize mathematical concepts or just building cool stuff for the web.
 
@@ -54,5 +54,8 @@ I am currently looking for internships where I can apply my background in Math &
   </a>
   <a href="mailto:oehlerfelipe@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://felipe-oehler.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
