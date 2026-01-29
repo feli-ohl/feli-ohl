@@ -6,6 +6,15 @@
 🛩️ Avid traveler and book lover.<br/>
 📍 Based in Málaga, Spain.
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=feli-ohl&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feli-ohl&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
+
+<br>
+
 ---
 
 ### 💻 Tech Stack:
