@@ -34,9 +34,9 @@
 
 ### 🔭 What I'm up to
 
-Right now, I'm pouring most of my energy into **42 Málaga**, tackling complex system programming challenges in C (like building my own Shell), Python and learning how things really work under the hood.
+Right now, I'm pouring most of my energy into 42 Málaga, tackling complex system programming challenges in C (like building my own Shell), Python and learning how things really work under the hood.
 
-When I'm not dealing with memory leaks or pointers, I love exploring **Creative Coding** to visualize mathematical concepts or just building cool stuff for the web.
+When I'm not dealing with memory leaks or pointers, I love exploring creative coding to visualize mathematical concepts or just building cool stuff for the web.
 
 > 🌐 **Check out my projects:** [felipe-oehler.vercel.app](https://felipe-oehler.vercel.app)
 
