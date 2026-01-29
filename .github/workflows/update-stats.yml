@@ -28,7 +28,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117
+          options: username=${{ github.repository_owner }}&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&exclude_repo=Creative-Coding,feli-ohl
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
