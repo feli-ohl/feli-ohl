@@ -6,6 +6,8 @@
 🛩️ Avid traveler and book lover.<br/>
 📍 Based in Málaga, Spain.
 
+[![Felipe Oehler's GitHub stats](https://github-readme-stats.vercel.app/api?username=feli-ohl)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=feli-ohl&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
