@@ -9,8 +9,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feli-ohl&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=1800" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feli-ohl&layout=compact&theme=transparent&hide_border=true&langs_count=6&cache_seconds=1800" height="150" alt="languages graph" />
+  <a href="https://github.com/feli-ohl">
+    <img height="180em" src="./profile/stats.svg" alt="Felipe's GitHub Stats" />
+    <img height="180em" src="./profile/langs.svg" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
