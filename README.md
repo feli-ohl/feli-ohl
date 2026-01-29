@@ -22,20 +22,19 @@
 
 ---
 
-### 🔭 Current Focus
+### 🔭 What I'm up to
 
-I am bridging the gap between math and code through **Creative Coding** and **System Architecture**.
+Right now, I'm pouring most of my energy into **42 Málaga**, tackling complex system programming challenges in C (like building my own Shell) and learning how things really work under the hood.
 
-* **Simulations:** Exploring *The Nature of Code* to model natural systems.
-* **Systems:** Building a custom Unix Shell to master kernel interactions.
-* **Web:** Developing a personal portfolio to showcase interactive projects.
+When I'm not dealing with memory leaks or pointers, I love exploring **Creative Coding** to visualize mathematical concepts or just building cool stuff for the web.
 
-> 🌐 **Portfolio:** [felipe-oehler.vercel.app](https://felipe-oehler.vercel.app)
+> 🌐 **Check out my projects:** [felipe-oehler.vercel.app](https://felipe-oehler.vercel.app)
+
 
 ---
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/felipe-oehler-4b4278364/" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-oehler/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:oehlerfelipe@gmail.com">
