@@ -126,14 +126,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 98.14%
+        C 98.28%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#427819" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Makefile 1.53%
+        Makefile 1.39%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
@@ -151,8 +151,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="98.14"
-          d="M 110.0592539759963 60.3865351045756 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          size="98.28"
+          d="M 110.55456911706011 60.330591415942955 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
           stroke="#555555"
           fill="none"
           stroke-width="12">
@@ -162,8 +162,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="1.53"
-          d="M 115.49179520189705 60.01218062935113 A 56.66666666666667 56.66666666666667 0 0 0 110.0592539759963 60.3865351045756"
+          size="1.39"
+          d="M 115.49179520189705 60.01218062935113 A 56.66666666666667 56.66666666666667 0 0 0 110.55456911706011 60.330591415942955"
           stroke="#427819"
           fill="none"
           stroke-width="12">
